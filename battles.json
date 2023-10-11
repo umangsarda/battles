@@ -1,0 +1,18 @@
+{
+  "most_active": {
+    "attacker_king": "Robb Stark",
+    "defender_king": "Joffrey Baratheon",
+    "region": "The Riverlands",
+    "name": "Battle of Riverrun"
+  },
+  "attacker_outcome": {
+    "win": 5,
+    "loss": 2
+  },
+  "battle_type": ["siege", "ambush", "pitched battle"],
+  "defender_size": {
+    "average": 4500,
+    "min": 2000,
+    "max": 7000
+  }
+}
